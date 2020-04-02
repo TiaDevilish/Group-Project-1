@@ -187,3 +187,6 @@ header{
 #staff{
   background-color: rgb(139, 139, 139) !important;
 }
+#gifmarg{
+  margin-right: auto;
+}
