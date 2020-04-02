@@ -1,0 +1,189 @@
+body {
+    overflow-x: hidden;
+  }
+  
+  .navbar .nav-link {
+    font-size: 14px;
+    text-transform: uppercase;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+  
+  .navbar .nav-item.active {
+    border-left: #444 3px solid;
+  }
+  
+  .carousel-item {
+    height: 450px;
+  }
+  
+  .carousel-image-1 {
+    background: url('../image/sunflower.jpg');
+    background-size: cover;
+  }
+  
+  .carousel-image-2 {
+    background: url('../image/sunset.jpg');
+    background-size: cover;
+  }
+  
+  .carousel-image-3 {
+    background: url('../image/red.jpg');
+    background-size: cover;
+  }
+  
+  #home-heading {
+    position: relative;
+    min-height: 200px;
+    background: url('../img/lights.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .dark-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+  }
+  
+  #video-play {
+    position: relative;
+    min-height: 200px;
+    background: url('../img/media.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 0 -300px;
+    text-align: center;
+    color: #fff;
+  }
+  
+  #video-play a {
+    color: #fff;
+  }
+  
+  #page-header {
+    height: 200px;
+    background: url('../image/happypeeps.jpg');
+    background-position: 0 -360px;
+    background-attachment: fixed;
+    color: #fff;
+    border-bottom: 1px #eee solid;
+    padding-top: 50px;
+  }
+  
+  .about-img {
+    margin-top: -50px;
+  }
+  
+  #faq .card {
+    border: #444;
+  }
+  
+  #faq a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  #faq .card-body,
+  #faq .card-header {
+    background: #333;
+  }
+  
+  #main-footer {
+    /* background: #212529 !important; */
+    color: #fff;
+  }
+  .logo{
+    width: 120px;
+  }
+  header{
+    text-align: center;
+    padding: 10px; 
+}
+.thumb{
+  height: 70px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 5px;
+}
+h5{
+  color: grey;
+  font-size: 12px;
+}
+h4{
+  font-size: 14px;
+}
+#youtubeContainer{
+  width: 562px;
+  margin: 0 auto;
+  background-color: rgb(255, 249, 249);
+  border: rgb(163, 159, 159) thin solid;
+}
+article {
+  display: flex !important;   
+  align-items: center;
+  padding: 8px 12px;
+  border: 1px rgb(255, 249, 249) solid;
+}
+article:hover{
+  border: 1px rgb(163, 158, 158) solid;
+}
+header{
+  text-align: center;
+  padding: 10px;
+}
+.display-3{
+  font-family: 'Dancing Script', cursive;
+}
+.lead{
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px !important;
+}
+.navbar-brand{
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px !important;
+}
+.laugh {
+  font-family: 'Dancing Script', cursive;
+}
+.laughter{
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+}
+.img-box{
+  padding: 20px;
+  transition: 1s;
+}
+.img-box:hover{
+  transform: scale(1.3);
+}
+.card-body{
+  margin-left: 40px;
+}
+
+.aboutus{
+  text-indent: 50px;
+  color: #444;
+}
+.icon_color{
+  color: #444;
+  color: #444;
+}
+
+.greettxt{
+  color: #444;
+}
+#gifgal{
+  color: #444;
+}
+#gifinfo{
+  color: #444;
+}
+#staff{
+  background-color: rgb(139, 139, 139) !important;
+}
