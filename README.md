@@ -31,8 +31,6 @@ Ekaterina Blagoeva, Hema Dwivedi and Shirley Rivera
 * Gif page
     * Includes a search bar with search button
     * Dynamically generated gifs 
-* Video page
-    * Includes a playlist of funny compilation videos
 * Jokes page 
     * Includes randomly generated jokes about Chuck Norris with two categories to choose from.
 
