@@ -2,7 +2,7 @@ $.gifReady = function () {
 
     var apiKey = "tr1aocA11XUCIxsJqnaSKqLrV7244mfk";
 
-    loadGifs("hello");
+    loadGifs("hire me");
 
     $("#click-button").on('click', function () {
         var inputValue = $("#gifType").val();
